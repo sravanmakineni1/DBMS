@@ -1,0 +1,3 @@
+UPDATE Employees
+SET Salary = 65000
+WHERE EmployeeID = 1;
